@@ -49,7 +49,8 @@
     "**/*.ts",
     "**/*.tsx",
     ".next/types/**/*.ts",
-    "C:\\Users\\bahad\\projects\\api_service_app\\.next/types/**/*.ts"
+    "C:\\Users\\bahad\\projects\\api_service_app\\.next/types/**/*.ts",
+    "C:\\Users\\bahad\\projects\\text-similarity\\.next/types/**/*.ts"
   ],
   "exclude": [
     "node_modules"
